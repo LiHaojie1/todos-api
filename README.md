@@ -1,24 +1,5 @@
 # README
+todos-api 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Try to find api way of RoR.
+Based on https://qiita.com/yyh-gl/items/30bd91c2b33fdfbe49b5
